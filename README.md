@@ -33,7 +33,7 @@ O código foi escrito prezando pela legibilidade e componentização, facilitand
 
 ## 🔗 Links
 
-*   **Deploy do Projeto:** [Insira o link da Vercel aqui, ex: https://meu-portfolio.vercel.app]
+*   **Deploy do Projeto:** https://meu-portfolio-de-sites.vercel.app/
 *   **LinkedIn:** [Lucas Vinícios Inácio](https://www.linkedin.com/in/lucas-vinicios-inacio/)
 
 ---
