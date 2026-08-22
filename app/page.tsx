@@ -12,7 +12,7 @@ export default function PortfolioPage() {
       nicho: "Advocacia",
       desc: "Design premium e institucional para captação de clientes corporativos, seguindo as diretrizes da OAB.",
       imagem: "/thumb-advocacia.png",
-      link: "/projetos/advocacia" 
+      link: "https://site-advocacia-psi-hazel.vercel.app/" 
     },
     {
       id: 2,
