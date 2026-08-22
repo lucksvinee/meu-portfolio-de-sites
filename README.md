@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 lucas_ | Portfólio de Alta Conversão
 
-## Getting Started
+> Um espaço digital desenvolvido para demonstrar não apenas código, mas resultados tangíveis. Este portfólio consolida Landing Pages e Sites Institucionais focados em performance, design premium e conversão para diferentes nichos de mercado (Saúde, Direito, Engenharia).
 
-First, run the development server:
+![Preview do Projeto](https://img.shields.io/badge/Status-Concluído-success)
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=nextdotjs)
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📌 O Projeto
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Este portfólio foi construído com uma mentalidade de **Agência Digital**. O objetivo não é listar habilidades técnicas isoladas, mas mostrar a capacidade de entender regras de negócio complexas (como as diretrizes éticas da OAB, CRP e CRN) e traduzi-las em interfaces de alta fidelidade que geram autoridade e captação de clientes.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### ✨ Destaques e Funcionalidades
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+*   **Arquitetura Baseada em Nichos:** Projetos demonstrativos segmentados (Advocacia, Psicologia, Nutrição, Engenharia), cada um com sua própria paleta de cores, tipografia e estratégia de *copywriting*.
+*   **Design Premium (Dark Mode):** Interface principal desenvolvida com uma estética "High-Ticket", utilizando alto contraste e micro-interações (hover states, transições suaves).
+*   **SEO Otimizado:** Construído com Next.js para garantir renderização do lado do servidor (SSR/SSG), essencial para o ranqueamento orgânico de negócios locais.
+*   **Responsividade Extrema:** Layout adaptável com Tailwind CSS, garantindo uma experiência fluida do mobile ao desktop.
 
-## Learn More
+## 🛠️ Tecnologias Utilizadas
 
-To learn more about Next.js, take a look at the following resources:
+Este projeto foi construído sobre uma stack moderna e performática:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+*   **[Next.js](https://nextjs.org/)** (React Framework)
+*   **[Tailwind CSS](https://tailwindcss.com/)** (Estilização Utilitária)
+*   **[Lucide React / HeroIcons]** (Iconografia vetorial otimizada)
+*   **[Vercel](https://vercel.com/)** (Hospedagem e CI/CD)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 💻 Estrutura e Padronização
 
-## Deploy on Vercel
+O código foi escrito prezando pela legibilidade e componentização, facilitando a manutenção e a criação rápida de novas "páginas de nicho" conforme a demanda comercial. 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🔗 Links
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+*   **Deploy do Projeto:** [Insira o link da Vercel aqui, ex: https://meu-portfolio.vercel.app]
+*   **LinkedIn:** [Lucas Vinícios Inácio](https://www.linkedin.com/in/lucas-vinicios-inacio/)
+
+---
+
+<div align="center">
+  <p>Desenvolvido com intenção por Lucas Vinícios Inácio.</p>
+</div>
