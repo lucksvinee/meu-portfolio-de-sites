@@ -20,7 +20,7 @@ export default function PortfolioPage() {
       nicho: "Nutrição",
       desc: "Plataforma leve e acolhedora focada em reeducação alimentar e agendamento de consultas.",
       imagem: "/thumb-nutricionista.png",
-      link: "/projetos/nutricao"
+      link: "https://site-nutricionista-psi.vercel.app/"
     },
     {
       id: 3,
