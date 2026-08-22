@@ -28,7 +28,7 @@ export default function PortfolioPage() {
       nicho: "Psicologia Clínica",
       desc: "Espaço digital seguro e intimista, desenhado para transmitir escuta ativa e converter pacientes online.",
       imagem: "/thumb-psicologa.png",
-      link: "/projetos/psicologia"
+      link: "https://site-psicologa-omega.vercel.app/"
     },
     {
       id: 4,
