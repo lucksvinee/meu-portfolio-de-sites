@@ -39,5 +39,5 @@ O código foi escrito prezando pela legibilidade e componentização, facilitand
 ---
 
 <div align="center">
-  <p>Desenvolvido com intenção por Lucas Vinícios Inácio.</p>
+  <p>Desenvolvido por Lucas Vinícios Inácio.</p>
 </div>

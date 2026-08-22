@@ -36,7 +36,7 @@ export default function PortfolioPage() {
       nicho: "Engenharia",
       desc: "Landing page focada em solidez, destacando aprovação de projetos e regularização de obras.",
       imagem: "/thumb-engenharia.png",
-      link: "/projetos/engenharia"
+      link: "https://site-engenharia-virid.vercel.app/"
     }
   ];
 
